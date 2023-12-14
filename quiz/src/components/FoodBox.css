@@ -1,0 +1,39 @@
+.boxs {
+  display: flex;
+}
+.ppr {
+  width: 850px;
+  background-color: rgba(201, 203, 201, 0.678);
+}
+.famous {
+  display: flex;
+  justify-content: space-between;
+}
+img {
+  width: 85px;
+  height: 85px;
+}
+.ct {
+  margin-top: 30px;
+}
+.add {
+  margin-right: 30px;
+  margin-top: 30px;
+  display: flex;
+}
+.input {
+  border-color: black;
+}
+.inf,
+.res {
+  background-color: black;
+  color: white;
+}
+.res {
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: black;
+  font-size: 25px;
+  width: 110px;
+  height: 45px;
+}
